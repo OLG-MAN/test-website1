@@ -1,2 +1,2 @@
 # test-website
-"apartmetns service company"
+"apartments service company"
