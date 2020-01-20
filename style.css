@@ -405,6 +405,49 @@ nav {
     padding-bottom: 95px;
 }
 
+.add {
+    padding-bottom: 100px;
+    padding-top: 90px;
+}
+
+.add-line {
+    display: flex;
+}
+
+.location {
+    font-size: 18px;
+    padding: 30px 87px 35px 55px;
+    background: #ffcc01;
+    display: inline-block;
+}
+
+.location i {
+    margin-top: 30px;
+    font-size: 25px;
+    position: relative;
+    top: 5px;
+    color: #fff;
+}
+
+.location-melbourne {
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}
+
+.location-australia {
+    position: relative;
+    left: 260px;
+    bottom: 50px;
+}
+
+.add-line h3 {
+    font-size: 25px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+    margin-left: 130px;
+}
+
 @media screen and (max-width: 765px) {
     .toogle {
         clear: both;
